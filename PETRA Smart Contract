@@ -1,0 +1,49 @@
+#PETRA https://petracoin.net 
+
+https://etherscan.io/token/0x543963b6Ca737c079Edc76E51A9F54833fC05fBF#code
+
+#Smart contract 
+
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Pausable.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
+
+contract Petra_Coin is ERC20, ERC20Burnable, ERC20Pausable, Ownable, ERC20Permit {
+    
+    string private constant _NAME_FALLBACK = "Petra Coin";
+    string private constant _VERSION_FALLBACK = "1";
+
+    constructor(address initialOwner)
+        ERC20("Petra Coin", "PETRA")
+        Ownable(initialOwner)
+        ERC20Permit("Petra Coin")
+    {
+        uint256 totalSupplyAmount = 100000000000 * 10 ** decimals();
+        _mint(initialOwner, totalSupplyAmount);
+    }
+
+    function pause() external onlyOwner {
+        _pause();
+    }
+
+    function unpause() external onlyOwner {
+        _unpause();
+    }
+
+    function transferOwnership(address newOwner) public virtual override onlyOwner {
+        require(newOwner != address(0), "Ownable: new owner is the zero address");
+        super.transferOwnership(newOwner);
+    }
+
+    function _update(address from, address to, uint256 value)
+        internal
+        override(ERC20, ERC20Pausable)
+    {
+        super._update(from, to, value);
+    }
+}
