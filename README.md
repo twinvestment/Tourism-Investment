@@ -45,7 +45,8 @@ PETRA EARLY-BIRD
 [Buy / Trade on Uniswap (Direct Swap)](https://app.uniswap.org/swap?outputCurrency=0x543963b6Ca737c079Edc76E51A9F54833fC05fBF)
 
 ---
-
+- # [ TWI ] Tourism Sector Tokenization
+- 
 ## invite for Tourism Industry Partners & Service Providers
 
 We officially invite all tourism stakeholders—including **travel agencies, airlines, hotels, restaurants, and global tourism service providers**—to join the TWI ecosystem and unlock next-generation opportunities:
@@ -98,6 +99,9 @@ For real estate partnership inquiries and asset tokenization proposals, reach ou
 
 **Get in Touch with Us:**  
 For partnership inquiries, integration requests, and business proposals, reach out directly at: [info@tourismworldinvestment.com](mailto:info@tourismworldinvestment.com)
+
+##TWI Whitepaper 
+https://tourismworldinvestment.com/whitepaper
 
 ## Hashtags & Branding
 #TWI #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism
