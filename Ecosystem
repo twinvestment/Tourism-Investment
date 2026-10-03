@@ -1,0 +1,26 @@
+# TWI Ecosystem Contracts & Sub-Projects
+
+This document lists all official verified smart contracts and digital arms under the **Tourism World Investment (TWI)** ecosystem (Project Owner: 100JORDAN)[span_0](start_span)[span_0](end_span).
+
+---
+
+## 🪙 1. PetraCoin (PETRA)
+- **Role:** Main Ecosystem Token[span_1](start_span)[span_1](end_span)
+- **Network:** Ethereum[span_2](start_span)[span_2](end_span)
+- **Verified Contract Address:** 
+  [`0x543963b6Ca737c079Edc76E51A9F54833fC05fBF`](https://etherscan.io/token/0x543963b6Ca737c079Edc76E51A9F54833fC05fBF)[span_3](start_span)[span_3](end_span)
+
+---
+
+## 🪙 2. Jordan Digital Token (JODT)
+- **Role:** Supporting Digital Token[span_4](start_span)[span_4](end_span)
+- **Network:** Ethereum[span_5](start_span)[span_5](end_span)
+- **Verified Contract Address:** 
+  [`0x6Fc15c55DD50BDffFF9aCa8CB1604bF884477961`](https://etherscan.io/token/0x6Fc15c55DD50BDffFF9aCa8CB1604bF884477961)[span_6](start_span)[span_6](end_span)
+
+---
+
+## 🏛️ 3. Main Investment Contract (TWI)
+- **Role:** Core Capital Raising & Phase Management Contract
+- **Verified Contract Address:** 
+  `0x84D884c22e16d0D4fDf143b6718fFDDEb5a219f0`[span_7](start_span)[span_7](end_span)
