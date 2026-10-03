@@ -95,15 +95,9 @@ You can view and inspect all official ecosystem contracts directly on our websit
 ## Get in Touch with Us
 For real estate partnership inquiries and asset tokenization proposals, reach out directly at: [info@tourismworldinvestment.com](mailto:info@tourismworldinvestment.com)
 
----
-#TWI #RealEstateTokenization #PropTech #Web3RealEstate #Blockchain #GlobalTourism
-
-
-**Get in Touch with Us:**  
-For partnership inquiries, integration requests, and business proposals, reach out directly at: [info@tourismworldinvestment.com](mailto:info@tourismworldinvestment.com)
-
-##TWI Whitepaper 
+_ _ _ 
+#TWI Whitepaper 
 https://tourismworldinvestment.com/whitepaper
 
 ## Hashtags & Branding
-#TWI #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism
+#TWI #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism #Network 
