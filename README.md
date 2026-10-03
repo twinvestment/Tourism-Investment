@@ -89,7 +89,7 @@ We officially invite all real estate owners, developers, and project leaders—i
   * **Hybrid Financial Settlement System:** Empowering users with the ultimate flexibility to execute transactions, funding, and contracts via both Web3 digital assets/cryptocurrencies (such as PetraCoin / TWI) and traditional fiat banking systems.
 
 
--# WTI Ecosystem Currency & Value Growth
+- # [ WTI]  Ecosystem Currency & Value Growth
 
 **Ecosystem** Currency & Value **Growth** **Mechanism**: Both TWI and PETRA (PetraCoin) ecosystem assets are directly integrated and transacted exclusively with the stablecoin USDT for all foundational operations. Investor returns and value appreciation are driven by macroeconomic growth indicators, currency settlements, tourism growth, and fluctuations in global gold prices. Additionally, the operational growth and profitability of TWI activities directly reflect on and enhance the market value for token holders.
 ## Explore & Verify Contracts
