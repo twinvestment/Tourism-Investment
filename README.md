@@ -28,6 +28,8 @@ Supporting Digital Token & Ecosystem Asset
 
 ## NFT Ownership & Digital Assets
 - Explore our verified collection and digital deeds in the [NFT Assets Documentation](./NFT_ASSETS.md).
+- Featured Item #417554: [View on OpenSea](https://opensea.io/item/ethereum/0xbd216513d74c8cf14cf4747e6aaa6420ff64ee9e/417554)
+- Featured Item #196735: [View on OpenSea](https://opensea.io/item/ethereum/0xbd216513d74c8cf14cf4747e6aaa6420ff64ee9e/196735)
 
 ## Hashtags & Branding
-#TWI #TourismWorldInvestment #PetraCoin #JODT #PETRA #Web3 #Crypto #Blockchain #GlobalTourism
+#TWI #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism
