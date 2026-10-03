@@ -96,8 +96,11 @@ You can view and inspect all official ecosystem contracts directly on our websit
 For real estate partnership inquiries and asset tokenization proposals, reach out directly at: [info@tourismworldinvestment.com](mailto:info@tourismworldinvestment.com)
 
 _ _ _ 
-#TWI Whitepaper 
+* **TWI Whitepaper**
 https://tourismworldinvestment.com/whitepaper
+
+**Ecosystem** Currency & Value **Growth** **Mechanism**: Both TWI and PETRA (PetraCoin) ecosystem assets are directly integrated and transacted exclusively with the stablecoin USDT for all foundational operations. Investor returns and value appreciation are driven by macroeconomic growth indicators, currency settlements, tourism growth, and fluctuations in global gold prices. Additionally, the operational growth and profitability of TWI activities directly reflect on and enhance the market value for token holders.
+* **WTI**,**PETRA** (PetraCoin) Are Connect with Stablecoin Of **USDT** and all our operations with it  
 
 ## Hashtags & Branding
 #TWI #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism #Network 
