@@ -91,7 +91,8 @@ We officially invite all real estate owners, developers, and project leaders—i
 
 - # [ WTI]  Ecosystem Currency & Value Growth
 
-**Ecosystem** Currency & Value **Growth** **Mechanism**: Both TWI and PETRA (PetraCoin) ecosystem assets are directly integrated and transacted exclusively with the stablecoin USDT for all foundational operations. Investor returns and value appreciation are driven by macroeconomic growth indicators, currency settlements, tourism growth, and fluctuations in global gold prices. Additionally, the operational growth and profitability of TWI activities directly reflect on and enhance the market value for token holders.
+**Ecosystem** Currency & Value **Growth** **Mechanism**: all of  **TWI**, **PETRA** (PetraCoin)  and **JODT** ecosystem assets are directly integrated and transacted exclusively with the stablecoin USDT for all foundational operations. Investor returns and value appreciation are driven by macroeconomic growth indicators, currency settlements, tourism growth, and fluctuations in global gold prices. Additionally, the operational growth and profitability of TWI activities directly reflect on and enhance the market value for token holders.
+
 ## Explore & Verify Contracts
 You can view and inspect all official ecosystem contracts directly on our website at: [https://tourismworldinvestment.com/#contracts](https://tourismworldinvestment.com/#contracts)
 
@@ -102,7 +103,10 @@ _ _ _
 * **TWI Whitepaper**
 https://tourismworldinvestment.com/whitepaper
 
-* **WTI**,**PETRA** (PetraCoin) Are Connect with Stablecoin Of **USDT** and all our operations with it  
+* **WTI**,**PETRA** (PetraCoin) **JODT** Are Connect with Stablecoin Of **USDT** and all our operations with it  
 
 ## Hashtags & Branding
-#TWI #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism #Network 
+
+**TWI** Tourism World Investment its Future of Fintech Creating Bridging Real World Assets With Web3 
+**Future** Start **Now**
+#TWI #TWInvestment #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism #Network 
