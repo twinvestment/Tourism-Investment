@@ -18,6 +18,7 @@ Main Ecosystem Token & Digital Arm
 
 - Network: Ethereum
 - Verified Contract: 0x543963b6Ca737c079Edc76E51A9F54833fC05fBF
+- Direct Swap: [Buy / Trade on Uniswap](https://app.uniswap.org/swap?outputCurrency=0x543963b6Ca737c079Edc76E51A9F54833fC05fBF)
 
 ## Jordan Digital Token (JODT)
 Supporting Digital Token & Ecosystem Asset
@@ -25,9 +26,8 @@ Supporting Digital Token & Ecosystem Asset
 - Network: Ethereum
 - Verified Contract: 0x6Fc15c55DD50BDffFF9aCa8CB1604bF884477961
 
-## Hashtags & Branding
-#TWI #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism
-
 ## NFT Ownership & Digital Assets
 - Explore our verified collection and digital deeds in the [NFT Assets Documentation](./NFT_ASSETS.md).
 
+## Hashtags & Branding
+#TWI #TourismWorldInvestment #PetraCoin #JODT #PETRA #Web3 #Crypto #Blockchain #GlobalTourism
