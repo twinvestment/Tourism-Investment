@@ -27,3 +27,7 @@ Supporting Digital Token & Ecosystem Asset
 
 ## Hashtags & Branding
 #TWI #TourismWorldInvestment #PetraCoin #JODT #Web3 #Crypto #Blockchain #GlobalTourism
+
+## NFT Ownership & Digital Assets
+- Explore our verified collection and digital deeds in the [NFT Assets Documentation](./NFT_ASSETS.md).
+
